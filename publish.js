@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
-	'rtmptwcvv.cc/', 
-	'hmqvxrhi.cc/', 
-    'gunskjtnt.com/',
+	'/', 
+	'/', 
+    '/',
 ];                                                                                                                  
 
 var JumpPage="https://heilss.com";
